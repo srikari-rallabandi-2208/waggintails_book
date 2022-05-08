@@ -1,0 +1,28 @@
+Table Of Contents :
+
+1. Food + pet supplies
+2. Walking -- walker -- scheduling walks
+*. Friends -- interact with other dogs in area -- schedule a meet with corresponding pet owners
+3. Bathing -- groomer -- centres
+		     -- mobile van
+4. Health -- doctor -- online
+		   -- offline
+          -- Hospital -- suggestions
+		     -- reviews
+		     -- ambulance 
+5. Transport -- own services / team-up with pet-friendly transport -- deals with ola/uber
+6. Absence -- a day -- daycare
+		   -- pet-sitters
+	  -- many days -- kennels / boarding homes
+7. Training -- trainers -- suggestions 
+		       -- reviews
+8. Adoption / Fostering -- Shelters 
+9. Shelters -- provide advertising for dogs present
+	    --  option to -- volunteer
+			 -- donate
+10. Kennels / Breeding homes -- provide advertising for -- upcoming litter
+						     -- puppies already present / yet to be adopted
+11. Instagram feed
+
+*. options to leave reviews wherever possible
+*. Practo + Insta + Uber + Spa + BookMy() + Training + Amazon ----------- your one-stop pet solution site.
